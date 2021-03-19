@@ -54,12 +54,12 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ati07&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="Ati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ati07&show_icons=true&hide_border=true" />
+
+
 
 [website]: https://atiurrahman-238cf.web.app/
 <!-- [course]: http://vsCodeHero.com -->
