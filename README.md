@@ -48,10 +48,16 @@
 <br />
 
 
+### Skills
+<img align="left" alt="Ati's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ati07&langs_count=8&show_icons=true&hide_border=true" />
+
+
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ati07&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ati's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ati07&show_icons=true&hide_border=true" />
 
 </details>
 
